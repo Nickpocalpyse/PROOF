@@ -1,0 +1,55 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.0.6 Chrome/138.0.7204.100 Electron/37.2.3 Safari/537.36" version="28.0.6">
+  <diagram name="Page-1" id="Eyr2ltxm-tUE1ONYDNQt">
+    <mxGraphModel dx="690" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qSDH6YggGfYyRgPixRU--3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qSDH6YggGfYyRgPixRU--1" target="qSDH6YggGfYyRgPixRU--2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qSDH6YggGfYyRgPixRU--1" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qSDH6YggGfYyRgPixRU--5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qSDH6YggGfYyRgPixRU--2" target="qSDH6YggGfYyRgPixRU--4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qSDH6YggGfYyRgPixRU--2" value="Import Geraldines Customer files" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qSDH6YggGfYyRgPixRU--7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qSDH6YggGfYyRgPixRU--4" target="qSDH6YggGfYyRgPixRU--6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qSDH6YggGfYyRgPixRU--4" value="Import Gerads customer files" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qSDH6YggGfYyRgPixRU--9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qSDH6YggGfYyRgPixRU--6" target="qSDH6YggGfYyRgPixRU--8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qSDH6YggGfYyRgPixRU--6" value="Create Combined customer files" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="425" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qSDH6YggGfYyRgPixRU--11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qSDH6YggGfYyRgPixRU--8" target="qSDH6YggGfYyRgPixRU--10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qSDH6YggGfYyRgPixRU--8" value="Analyze Geraldlines&lt;div&gt;customer files&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qSDH6YggGfYyRgPixRU--13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qSDH6YggGfYyRgPixRU--10" target="qSDH6YggGfYyRgPixRU--12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qSDH6YggGfYyRgPixRU--10" value="Analyze Geralds customer files" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qSDH6YggGfYyRgPixRU--15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qSDH6YggGfYyRgPixRU--12" target="qSDH6YggGfYyRgPixRU--14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qSDH6YggGfYyRgPixRU--12" value="Bubble sort the two into Combined customer files&lt;div&gt;based off of Customer number&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="100" width="230" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="qSDH6YggGfYyRgPixRU--14" value="Stop" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="160" width="80" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

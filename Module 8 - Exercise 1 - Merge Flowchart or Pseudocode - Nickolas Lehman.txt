@@ -1,0 +1,20 @@
+Start
+//First we need to import the two list and make a new one for them
+
+InputFile Geralines Business
+InportFile Gerads Business
+Create List Combined Business
+
+//Secound we need to open them and analyze them to send to the new list
+
+Open Geraldlines Business "Geraldlines Business.csv"
+Open Gerads Business "Gerads Business.csv"
+
+Output Geraldlines Business into Combined Business
+Output Gerads Business into Combined Business
+
+//Now we need to sort them to make it easy to find customers
+
+Bubble sort Combined Business by Customer Number, Lowest to Highest
+
+End program
